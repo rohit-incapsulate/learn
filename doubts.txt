@@ -6,3 +6,5 @@ Doubts :
 local repo = my computer
 global repo = github
 master branch - local repo branch
+To add and commit we can use signs of + and then type message or through terminal
+using "git add ." and "git commit -a -m "New code added" "
