@@ -2,3 +2,7 @@ Doubts :
 1) Short term Rental - Price.
 2) Wood vendor price in help button. Formatting not clear incase placed together.
 3) Business owner 1 and 2 has different field Mailing address and Home Address.
+
+local repo = my computer
+global repo = github
+master branch - local repo branch
