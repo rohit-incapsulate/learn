@@ -5,6 +5,6 @@ To add and commit we can use signs of + and then type message or through termina
 using "git add ." and "git commit -a -m "New code added" "
 Remote help us to add from local repo (pc) to global repo (github).
 We have kept our remote name as origin so we push from origin to master branch using
-"git push origin master".
+"git push origin master" or directly ... ->  pull/push -> push .
 To shift from master to new branch created ie new-story "git checkout new-story"
 need to add our branch name in vscode to checkout.
