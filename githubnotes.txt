@@ -1,0 +1,18 @@
+local repo = my computer
+global repo = github
+master branch - local repo branch
+To add and commit we can use signs of + and then type message or through terminal
+using "git add ." and "git commit -a -m "New code added" "
+Remote help us to add from local repo (pc) to global repo (github).
+We have kept our remote name as origin so we push from origin to master branch using
+"git push origin master" or directly ... ->  pull/push -> push .
+To shift from master to new branch created ie new-story "git checkout new-story"
+need to add our branch name in vscode to checkout.
+
+PR = Pull request..Apne kch pull karlia ab app kch dalne ki request karna chahte hai .
+You created a branch..New branch some changes.. You want to request the owner of repo.. review..
+if okay add it in ur main branch.
+
+On github directly ui wala kaam click compare and pull request.
+Keep note properly on which branch you are merging.
+
