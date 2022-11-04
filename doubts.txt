@@ -11,3 +11,4 @@ using "git add ." and "git commit -a -m "New code added" "
 Remote help us to add from local repo (pc) to global repo (github).
 We have kept our remote name as origin so we push from origin to master branch using
 "git push origin master".
+To shift from master to new branch created ie new-story "git checkout new-story"
