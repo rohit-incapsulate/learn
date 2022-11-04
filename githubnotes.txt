@@ -16,3 +16,31 @@ if okay add it in ur main branch.
 On github directly ui wala kaam click compare and pull request.
 Keep note properly on which branch you are merging.
 
+Git clone use "git clone codeurl". URL can be pasted using ctrl+shift+V. 
+
+Pull using "git pull origin master" where origin is remote.
+
+Remote is a lable for whichever repo you want to do pull/push, branch change ... remote is must needed..  By default we get "origin" as remote.
+on typing "remote -v" in terminal.
+
+origin  https://github.com/rohit-incapsulate/learn.git (fetch)
+origin  https://github.com/rohit-incapsulate/learn.git (push)
+
+If we want to remove remote use  "git remote remove origin".
+
+To add remote -- either directly by ... -> remote -> Add/Remove remote or "git remote add url".
+
+---------------
+git stash -- like a box keep changes in that box and keep the box aside if needed later.
+command "git stash -m "added a line in github file"... will get meaningful name then.
+
+To see all inside stash use cmd "git stash list".
+only latest stash will be pushed - "git stash apply".
+To apply changes to specific stash use -- "git stash apply stash@{2}"
+
+to delete particular stash - git stash drop stash@{2}
+to delete all stash - git stash clear.
+
+To create branch too while using stash -- git stash branch "nothing" stash@{0}.
+create new branch and came on that branch did public using stash and drop that stash as well as phrr kch kaam nhi.
+
