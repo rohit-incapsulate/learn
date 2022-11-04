@@ -2,13 +2,3 @@ Doubts :
 1) Short term Rental - Price.
 2) Wood vendor price in help button. Formatting not clear incase placed together.
 3) Business owner 1 and 2 has different field Mailing address and Home Address.
-
-local repo = my computer
-global repo = github
-master branch - local repo branch
-To add and commit we can use signs of + and then type message or through terminal
-using "git add ." and "git commit -a -m "New code added" "
-Remote help us to add from local repo (pc) to global repo (github).
-We have kept our remote name as origin so we push from origin to master branch using
-"git push origin master".
-To shift from master to new branch created ie new-story "git checkout new-story"
